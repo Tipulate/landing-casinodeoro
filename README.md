@@ -1,5 +1,4 @@
-# Mi página web 🌐
-
+#Proyecto Web del Equipo 🌐
 Este proyecto consiste en una página web desarrollada utilizando **HTML**.
 
 ## Secciones de la página
