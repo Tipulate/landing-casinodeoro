@@ -16,5 +16,5 @@ La página cuenta con las siguientes 3 secciones:
 
 ## Sitio publicado 🚀
 
-Puedes visitar el sitio web publicado aquí:
+Puedes visitar el sitio web publicado aquí: https://tipulate.github.io/landing-casinodeoro/
 
